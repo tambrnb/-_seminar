@@ -117,7 +117,17 @@
 
 // 32679 -> 6
 
-
+// Console.WriteLine("Введите цифру"); 
+// // int num = int.Parse(Console.ReadLine());
+// // if(num<100)
+// // {
+// //     Console.WriteLine("Третьей цифры нет");
+// // }
+// // int num2 = (num/100)%10;
+// // Console.WriteLine(num2);
+// // ИЛИ//
+// string num = Console.ReadLine();
+// Console.WriteLine(num[2]);
 
 ///////////////////////////////////////
 // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
@@ -126,12 +136,17 @@
 // 7 -> да
 // 1 -> нет
 
-Console.WriteLine("Введите цифру дня недели"); 
-int num = Convert.ToInt32(Console.ReadLine());
-if(num == 6 || num == 7)
-{
-    Console.WriteLine("Да");
-}
-else {
-    Console.WriteLine("Нет");
-}
+// Console.WriteLine("Введите цифру дня недели"); 
+// int num = Convert.ToInt32(Console.ReadLine());
+// if(num>7)
+// {
+//     Console.WriteLine("Ошибка");
+// }
+// if(num == 6 || num == 7)
+// {
+//     Console.WriteLine("Да");
+// }
+// if(num==1||num==2||num==3||num==4||num==5)
+// {
+//     Console.WriteLine("Нет");
+// }
