@@ -135,3 +135,35 @@
 // {
 //     Console.WriteLine(Math.Pow(i,3));
 // }
+
+///////////////////////////
+
+// Напишите программу, которая принимает на вход пятизначное число 
+// и проверяет, является ли оно палиндромом.
+
+// 14212 -> нет
+
+// 12821 -> да
+
+// 23432 -> да
+
+// Console.WriteLine("Введите число");
+// int number = int.Parse(Console.ReadLine());
+// int num1 = number/10000;
+// int num2 = number%10;
+// int num3 = (number/1000)%10;
+// int num4 = (number/10)%10;
+
+// Console.WriteLine(num1);
+// Console.WriteLine(num2);
+// Console.WriteLine(num3);
+// Console.WriteLine(num4);
+
+
+// if((num1==num2)&&(num3==num4))
+// {
+//     Console.WriteLine("Да");
+// }
+// else{
+//      Console.WriteLine("Нет");
+// }
