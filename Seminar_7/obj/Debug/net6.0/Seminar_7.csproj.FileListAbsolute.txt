@@ -1,0 +1,15 @@
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/obj/Debug/net6.0/Seminar_7.csproj.AssemblyReference.cache
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/obj/Debug/net6.0/Seminar_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/obj/Debug/net6.0/Seminar_7.AssemblyInfoInputs.cache
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/obj/Debug/net6.0/Seminar_7.AssemblyInfo.cs
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/obj/Debug/net6.0/Seminar_7.csproj.CoreCompileInputs.cache
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/bin/Debug/net6.0/Seminar_7
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/bin/Debug/net6.0/Seminar_7.deps.json
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/bin/Debug/net6.0/Seminar_7.runtimeconfig.json
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/bin/Debug/net6.0/Seminar_7.dll
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/bin/Debug/net6.0/Seminar_7.pdb
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/obj/Debug/net6.0/Seminar_7.dll
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/obj/Debug/net6.0/refint/Seminar_7.dll
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/obj/Debug/net6.0/Seminar_7.pdb
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/obj/Debug/net6.0/Seminar_7.genruntimeconfig.cache
+/Users/tamerlan/Desktop/C#_seminar/Seminar_7/obj/Debug/net6.0/ref/Seminar_7.dll
