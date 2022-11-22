@@ -193,6 +193,6 @@
 //       sum = sum+array[i,j];
 //       av = sum/3;
 //     }
-//     Console.Write(av + " ");
+    
 // }
 
