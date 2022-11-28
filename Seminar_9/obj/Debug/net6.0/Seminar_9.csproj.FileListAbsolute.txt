@@ -1,0 +1,5 @@
+/Users/tamerlan/Desktop/C#_seminar/Seminar_9/obj/Debug/net6.0/Seminar_9.csproj.AssemblyReference.cache
+/Users/tamerlan/Desktop/C#_seminar/Seminar_9/obj/Debug/net6.0/Seminar_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamerlan/Desktop/C#_seminar/Seminar_9/obj/Debug/net6.0/Seminar_9.AssemblyInfoInputs.cache
+/Users/tamerlan/Desktop/C#_seminar/Seminar_9/obj/Debug/net6.0/Seminar_9.AssemblyInfo.cs
+/Users/tamerlan/Desktop/C#_seminar/Seminar_9/obj/Debug/net6.0/Seminar_9.csproj.CoreCompileInputs.cache
