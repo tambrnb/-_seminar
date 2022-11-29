@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tamerlan/Desktop/C#_seminar/Seminar_9/Seminar_9.csproj",
-      "projectName": "Seminar_9",
-      "projectPath": "/Users/tamerlan/Desktop/C#_seminar/Seminar_9/Seminar_9.csproj",
+      "projectUniqueName": "/Users/tamerlan/Desktop/C#_seminar/Seminar_9.1/Seminar_9.1.csproj",
+      "projectName": "Seminar_9.1",
+      "projectPath": "/Users/tamerlan/Desktop/C#_seminar/Seminar_9.1/Seminar_9.1.csproj",
       "packagesPath": "/Users/tamerlan/.nuget/packages/",
-      "outputPath": "/Users/tamerlan/Desktop/C#_seminar/Seminar_9/obj/",
+      "outputPath": "/Users/tamerlan/Desktop/C#_seminar/Seminar_9.1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tamerlan/.nuget/NuGet/NuGet.Config"
